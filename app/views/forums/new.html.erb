@@ -1,0 +1,11 @@
+<p id="notice"><%= notice %></p>
+<p id="notice"><%= alert %></p>
+
+<h1>forums/new.html.erb</h1>
+<%= link_to 'Sign-up', new_user_registration_path, method: :get %> &nbsp &nbsp  
+<%= link_to 'Sign-in', new_user_session_path, method: :get %> &nbsp &nbsp
+<%= link_to 'Sign-out', destroy_user_session_path, method: :delete %> &nbsp &nbsp
+<%= link_to 'Edit', edit_user_registration_path, method: :get %> &nbsp &nbsp
+<%= link_to 'Delete', registration_path(:user), method: :delete %> &nbsp &nbsp
+<%= link_to 'Forgot your password?', new_user_password_path %> &nbsp &nbsp
+

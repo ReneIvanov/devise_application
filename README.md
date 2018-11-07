@@ -1,24 +1,8 @@
-# README
+Devise application:
+-------------------
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails project created in order to try implement the Devise gem.
 
-Things you may want to cover:
+If you have some questions please feel free to contact me on rene.ivanov@gmail.com.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+With kindly regards, René Ivanov.
